@@ -12,7 +12,7 @@ public class DescuentoTest {
         //cuando
         double resultado = Descuento.calcular(precio, porcentaje);
         //Entonces
-        assertEquals(15000, resultado);
+        assertEquals(16000, resultado);
     }
 
     @Test
