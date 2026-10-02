@@ -1,0 +1,5 @@
+.env
+#configuración personal de Intellij
+.idea/
+*.iml
+target/
